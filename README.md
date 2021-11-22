@@ -12,13 +12,14 @@ We have been tasked with searching for academic dishonesty from the file “stud
 * [How is the school summary affected?]: Looking at the school summary dataset with THS 9th graders and the school summary dataset without THS 9th graders,  it can be concluded that the other schools were not affected by this change. Naturally, that is the case as the only data changed was data concerning Thomas High School. However, there is a noticeable difference in Thomas High School statistics. With the 9th graders included in the analysis, Thomas High School had: An average math score of 83.4, An average reading score of 83.8, 93.3% of students passing math, 97.3% of students passing reading,90.9% of students passing overall. When omitting the 9th graders, Thomas High School had: An average math score of 83.4, an average reading score of 83.9, 66.9% of students passing math, 69.7% of students passing reading, 65.1% of students passing overall. As you can tell, there is a large discrepancy in the percentage of students passing math, or reading, or both, between the two analyses. The data not considering the THS 9th graders reflects a noticeable decline in student performance.
 
 <img width="662" alt="per_school_summary_before" src="https://user-images.githubusercontent.com/72320203/142822858-f346a9d7-d4f7-4587-8535-683eb20cf8c6.PNG">
->
 
-<img width="671" alt="per_school_summary_after" src="https://user-images.githubusercontent.com/72320203/142822847-19c594d7-caf1-4180-a887-dba9e14028eb.PNG"
+
+
+<img width="671" alt="per_school_summary_after" src="https://user-images.githubusercontent.com/72320203/142822847-19c594d7-caf1-4180-a887-dba9e14028eb.PNG">
 
 * [How Does Replacing the ninth-grade scores affect: Scores by school spending?]: The original analysis shows that as spending per student increases, the average grades and percentage of passing students goes down. A concise testament to this trend can be seen in the “% Overall Passing” column. At the lowest spending range the “% Overall Passing” value stands at 90 percent. Then, as the spending increases, it goes to 81 percent and then 63 percent and finally 54 percent. The analysis omitting the THS 9th graders follows a similar trend. Examining the “% Overall Passing”,  the percentage declines as the spending ranges increase.
 
-     <img width="688" alt="spending_summary_before" src="https://user-images.githubusercontent.com/72320203/142824119-1d7117df-0ed6-46a8-9822-88c504fd2a7e.PNG">
+<img width="688" alt="spending_summary_before" src="https://user-images.githubusercontent.com/72320203/142824119-1d7117df-0ed6-46a8-9822-88c504fd2a7e.PNG">
 
 
 * [How Does Replacing the ninth-grade scores affect: Scores by School size?]: The original analysis shows that as school size increases, the “% Overall Passing” decreases. It begins at 90% at the smallest school size and then ends up at 58% at the largest school size. In the second analysis, there is a similar trend - At the smallest there is 90% overall passing rate and at the largest, there is a 56.6% overall passing rate.
